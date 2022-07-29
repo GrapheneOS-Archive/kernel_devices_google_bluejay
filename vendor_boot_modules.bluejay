@@ -85,7 +85,6 @@ gsa.ko
 gsa_gsc.ko
 gsc-spi.ko
 gvotable.ko
-hall_sensor.ko
 hardlockup-debug.ko
 hardlockup-watchdog.ko
 heatmap.ko

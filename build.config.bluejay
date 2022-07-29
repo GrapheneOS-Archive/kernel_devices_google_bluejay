@@ -67,6 +67,5 @@ private/google-modules/fingerprint/fpc
 private/google-modules/power/reset
 private/google-modules/bluetooth/broadcom
 private/google-modules/nfc
-private/google-modules/sensors/hall_sensor
 private/devices/google/bluejay/display
 "
